@@ -1,0 +1,11 @@
+html {
+  background: #3F5EFB;
+  background: radial-gradient(circle, rgb(133, 133, 196) 0%, rgb(184, 238, 134) 100%);
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}

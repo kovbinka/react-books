@@ -1,0 +1,11 @@
+.user-input {
+    border: none;
+    border-radius: 5px;
+    padding: 12px;
+    margin-right: 10px;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+}
